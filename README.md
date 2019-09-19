@@ -8,6 +8,7 @@ Libraries and practices
 
 
 ### CSS Frameforks
+1. [TailwindCSS](https://tailwindcss.com) - A utility-first CSS framework for rapidly building custom designs
 
 ## Frameworks
 
