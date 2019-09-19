@@ -3,11 +3,11 @@ Libraries and practices
 
 ## Libraries
 
-###Animations
+### Animations
 1. [SWUP.js](https://swup.js.org/getting-started) - page transitions
 
 
-###CSS Frameforks
+### CSS Frameforks
 
 ## Frameworks
 
