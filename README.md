@@ -22,10 +22,12 @@ Reveal Animations When You Scroll
 Simple animation for revealing elements. Анимация текста через шейпы
 ---
 
-### CSS Frameforks
+### CSS Frameworks
 *  [TailwindCSS](https://tailwindcss.com) - A utility-first CSS framework for rapidly building custom designs
 
 ## Frameworks
+
+*  [Laravel](https://laravel.com)
 
 ## Practices 
 
