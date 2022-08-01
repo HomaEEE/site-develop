@@ -28,6 +28,7 @@ Simple animation for revealing elements. Анимация текста чере�
 ## Frameworks
 
 *  [Laravel](https://laravel.com)
+*  [filamentPhp](https://filamentphp.com)
 
 ## Practices 
 
