@@ -18,8 +18,13 @@ Splitting is a JavaScript microlibrary with a collection of small built-in plugi
 *  [Wow.js](https://wowjs.uk)
 Reveal Animations When You Scroll
 ---
-*  [Doorman](http://git.blivesta.com/doorman/)
+* [Doorman](http://git.blivesta.com/doorman/)
 Simple animation for revealing elements. Анимация текста через шейпы
+
+
+* [Motion One](https://motion.dev/)
+Motion One is the smallest fully-featured animation library for the web. GSAP Alternative
+
 ---
 
 ### CSS Frameworks
